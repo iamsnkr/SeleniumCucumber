@@ -1,0 +1,12 @@
+13:41:41.780 [main] INFO  step_definitions.BaseClass - ********* Searching customer details by Name **************
+13:41:41.782 [main] INFO  step_definitions.BaseClass - ********* enter_customer_FirstName **************
+13:41:42.526 [main] INFO  step_definitions.BaseClass - ********* enter_customer_LastName **************
+13:41:42.681 [main] INFO  step_definitions.BaseClass - ************* click_on_search_button *****************
+13:41:45.775 [main] INFO  step_definitions.BaseClass - ************* verify_Name_in_the_Search_table *****************
+13:41:45.980 [main] INFO  step_definitions.BaseClass - ************* close_browser *****************
+13:41:46.886 [main] DEBUG step_definitions.BaseClass - This is a Debug
+13:41:46.887 [main] INFO  step_definitions.BaseClass - This is an Info
+13:41:46.887 [main] WARN  step_definitions.BaseClass - This is a Warn
+13:41:46.888 [main] ERROR step_definitions.BaseClass - This is an Error
+13:41:46.888 [main] FATAL step_definitions.BaseClass - This is a Fatal
+13:41:46.888 [main] INFO  step_definitions.BaseClass - ************* Launching Browser *****************

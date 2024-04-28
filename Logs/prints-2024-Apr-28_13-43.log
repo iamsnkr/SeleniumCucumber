@@ -1,0 +1,11 @@
+13:42:40.516 [main] FATAL step_definitions.BaseClass - This is a Fatal
+13:42:40.522 [main] INFO  step_definitions.BaseClass - ************* Launching Browser *****************
+13:42:42.020 [main] INFO  step_definitions.BaseClass - ************* opened url *****************
+13:42:42.021 [main] INFO  step_definitions.BaseClass - ************* enters Email and Password *****************
+13:42:42.347 [main] INFO  step_definitions.BaseClass - ************* Click on Login *****************
+13:42:58.576 [main] INFO  step_definitions.BaseClass - ************* verify page_title *****************
+13:43:01.023 [main] INFO  step_definitions.BaseClass - ************* click on Log out link *****************
+13:43:11.301 [main] INFO  step_definitions.BaseClass - ************* verify page_title *****************
+13:43:11.513 [main] INFO  step_definitions.BaseClass - ************* close_browser *****************
+13:43:12.419 [main] DEBUG step_definitions.BaseClass - This is a Debug
+13:43:12.419 [main] INFO  step_definitions.BaseClass - This is an Info

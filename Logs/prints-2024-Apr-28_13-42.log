@@ -1,0 +1,11 @@
+13:41:49.566 [main] INFO  step_definitions.BaseClass - ************* opened url *****************
+13:41:49.570 [main] INFO  step_definitions.BaseClass - ************* enters Email and Password *****************
+13:41:49.874 [main] INFO  step_definitions.BaseClass - ************* Click on Login *****************
+13:42:27.233 [main] INFO  step_definitions.BaseClass - ************* verify page_title *****************
+13:42:29.433 [main] INFO  step_definitions.BaseClass - ************* click on Log out link *****************
+13:42:39.386 [main] INFO  step_definitions.BaseClass - ************* verify page_title *****************
+13:42:39.646 [main] INFO  step_definitions.BaseClass - ************* close_browser *****************
+13:42:40.514 [main] DEBUG step_definitions.BaseClass - This is a Debug
+13:42:40.516 [main] INFO  step_definitions.BaseClass - This is an Info
+13:42:40.516 [main] WARN  step_definitions.BaseClass - This is a Warn
+13:42:40.516 [main] ERROR step_definitions.BaseClass - This is an Error

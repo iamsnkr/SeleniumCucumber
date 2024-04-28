@@ -1,0 +1,12 @@
+13:40:33.556 [main] DEBUG step_definitions.BaseClass - This is a Debug
+13:40:33.568 [main] INFO  step_definitions.BaseClass - This is an Info
+13:40:33.568 [main] WARN  step_definitions.BaseClass - This is a Warn
+13:40:33.568 [main] ERROR step_definitions.BaseClass - This is an Error
+13:40:33.568 [main] FATAL step_definitions.BaseClass - This is a Fatal
+13:40:33.568 [main] INFO  step_definitions.BaseClass - ************* Launching Browser *****************
+13:40:35.585 [main] INFO  step_definitions.BaseClass - ************* opened url *****************
+13:40:35.587 [main] INFO  step_definitions.BaseClass - ************* enters Email and Password *****************
+13:40:35.896 [main] INFO  step_definitions.BaseClass - ************* Click on Login *****************
+13:40:40.064 [main] INFO  step_definitions.BaseClass - ************* navigate to view Dashboad *****************
+13:40:40.845 [main] INFO  step_definitions.BaseClass - ************* click_on_customers_menu *****************
+13:40:43.941 [main] INFO  step_definitions.BaseClass - ************* click_on_customers_menu_item *****************
